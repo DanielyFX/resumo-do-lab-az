@@ -6,3 +6,11 @@
 4. Recursos que não possuem SLA são sucetiveis a falha e não implica em responsabilidade para a microsoft (tomar cuidado com estes recursos);
 5. Desalocar recursos alocados para a experimentação para assim evitar potênciais cobranças;
 6. Tomar cuidado para não gastar os $200 sem ter experimentado de maneira satisfatória o ambiente.
+
+
+# resumo-do-lab-za-2
+1. Criar VM's tendo em vista a questão da disponibilidade;
+2. Avaliação em cima dos SLA's;
+3. Quanto mais "9" menor o tempo de indisponibilidade do recurso contratado;
+4. Criar o nível de redudância sabendo que ele afeta a questão da disponibilidade e também o preço gasto com os recursos;
+5. A redudância pode ser feita no nível de datacenter (local ou diferente), zonas e regiões geográficas permitindo com que mesmo se o serviço em um local caia ele pode ser rapidamente retomada a partir de uma dessas replicações.
