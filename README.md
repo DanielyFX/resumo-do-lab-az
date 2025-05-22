@@ -25,3 +25,12 @@
 2. Criação de grupo de recursos na região Norte Americana;
 3. Criação de vnet na região Sul Americana;
 4. Explicação do que são bloqueios de recursos e tags e qual a sua importância.
+
+# resumo-do-lab-az-5
+1. Explicação de como é feita uma vm;
+2. Tipos de redundância e replicação da vm;
+3. Configurações do escalamento automático;
+4. Configurações de disco;
+5. Configurações para exclusão da vm junto com o disco;
+6. Tipos de área de trabalho virtual (multi ou única);
+7. Configuração de aplicação de função (functions).
